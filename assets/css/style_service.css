@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.title p{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.border{
+    background: orangered;
+    width: 35px;
+    height: 2px;
+    margin: 30px auto;
+}
+.items{
+    display: flex;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.item h4{
+
+}
+.item p{
+    text-align: center;
+    color: #767c81;
+}
